@@ -10,7 +10,7 @@ class Dog
   end
 
   def initialize(bark)
-    puts "woof!"
+    bark = "woof!"
   end
   
 end
